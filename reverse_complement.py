@@ -1,3 +1,7 @@
+'''
+ID: REVC
+Title: Complementing A Strand Of DNA
+'''
 from Bio.Seq import Seq
 from Bio.Alphabet import IUPAC
 
