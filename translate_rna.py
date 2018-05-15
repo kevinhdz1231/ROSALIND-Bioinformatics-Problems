@@ -1,3 +1,7 @@
+'''
+ID: PROT
+Title: Translating RNA Into Protein
+'''
 from Bio.Seq import Seq
 from Bio.Alphabet import IUPAC
 
