@@ -1,7 +1,6 @@
 '''
 ID: DNA
 Title: Counting DNA Nucleotides
-
 '''
 
 with open('rosalind_dna.txt') as seqfile:
