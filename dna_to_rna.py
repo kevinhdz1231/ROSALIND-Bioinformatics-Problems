@@ -1,4 +1,9 @@
-# change dna sequence to rna sequence
+'''
+ID: RNA
+Title: Transcribing RNA into DNA
+
+'''
+
 from Bio.Seq import Seq
 from Bio.Alphabet import IUPAC
 
