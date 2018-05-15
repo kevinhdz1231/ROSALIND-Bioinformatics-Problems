@@ -1,5 +1,7 @@
-''' It is important to note that this program will only work if there
-    is a single hamming distance '''
+''' 
+ID: HAMM
+Title: Hamming Distance
+'''
 
 with open('rosalind_hamm.txt') as seqs:
     for line, sequence in enumerate(seqs):
